@@ -70,6 +70,7 @@ streamlit run ui.py
 
 
 **Input:**
+https://github.com/anita69cv/insta-caption-generator/blob/main/images.jpg
 
 **Output:**
 
