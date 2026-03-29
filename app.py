@@ -2,7 +2,7 @@ import requests
 from image_caption import get_image_description
 from prompt import build_prompt
 
-LM_STUDIO_URL = "http://127.0.0.1:1234/v1/chat/completions"
+LM_STUDIO_URL = API_KEY-your-secret-key
 
 def generate_captions(image_path):
     # Step 1: Image → description
