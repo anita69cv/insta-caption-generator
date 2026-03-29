@@ -38,9 +38,6 @@ insta-caption-generator/
 
 git clone https://github.com/your-username/insta-caption-generator.git
 cd insta-caption-generator
-```
-
----
 
 ### 2. Create virtual environment
 
@@ -68,12 +65,12 @@ pip install -r requirements.txt
 ### 5. Run the app
 streamlit run ui.py
 
+### 🔹 Input:
+![Upload](images.jpg)
 
-**Input:**
-https://github.com/anita69cv/insta-caption-generator/blob/main/images.jpg
+## 📸 App Screenshots
+### 🔹 Output 1 
+![Output1](output1.png.png)
 
-**Output:**
-
-
-
-
+### 🔹 Output 2
+![Output2](output2.png.png)
